@@ -28,22 +28,8 @@ You can also specify the config file via `--config` option of [CLI](./cli.md).
 
 A basic config file looks like this:
 
-<CodeGroup>
-  <CodeGroupItem title="JS" active>
-
-```js
-module.exports = {
-  lang: 'en-US',
-  title: 'Hello, VuePress!',
-  description: 'This is my first VuePress site',
-}
-```
-
-  </CodeGroupItem>
-
-  <CodeGroupItem title="TS">
-
 ```ts
+// ts
 import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
@@ -51,10 +37,14 @@ export default defineUserConfig({
   title: 'Hello VuePress',
   description: 'Just playing around',
 })
-```
 
-  </CodeGroupItem>
-</CodeGroup>
+// js
+module.exports = {
+  lang: 'en-US',
+  title: 'Hello, VuePress!',
+  description: 'This is my first VuePress site',
+}
+```
 
 ::: tip
 Check out the [Config Reference](../reference/config.md) for a full list of VuePress config.

@@ -6,7 +6,6 @@
 - [Yarn v1 classic](https://classic.yarnpkg.com/en/) (Optional)
 
 ::: tip
-- With [pnpm](https://pnpm.io/), you may need to install `vue` and `@vuepress/client` as peer-dependencies, i.e. `pnpm add -D vue @vuepress/client@next`.
 - With [yarn 2](https://yarnpkg.com/), you need to set `nodeLinker: 'node-modules'` in your [`.yarnrc.yml`](https://yarnpkg.com/configuration/yarnrc#nodeLinker) file.
 :::
 
@@ -23,45 +22,25 @@ cd vuepress-starter
 
 - **Step 2**: Initialize your project
 
-<CodeGroup>
-  <CodeGroupItem title="YARN" active>
-
 ```bash
+# yarn
 git init
 yarn init
-```
 
-  </CodeGroupItem>
-
-  <CodeGroupItem title="NPM">
-
-```bash
+# npm
 git init
 npm init
 ```
 
-  </CodeGroupItem>
-</CodeGroup>
-
 - **Step 3**: Install VuePress locally
 
-<CodeGroup>
-  <CodeGroupItem title="YARN" active>
-
 ```bash
+# yarn
 yarn add -D vuepress@next
-```
 
-  </CodeGroupItem>
-
-  <CodeGroupItem title="NPM">
-
-```bash
+# npm
 npm install -D vuepress@next
 ```
-
-  </CodeGroupItem>
-</CodeGroup>
 
 - **Step 4**: Add some [scripts](https://classic.yarnpkg.com/en/docs/package-json#toc-scripts) to `package.json`
 
@@ -91,24 +70,14 @@ echo '# Hello VuePress' > docs/README.md
 
 - **Step 7**: Serve the documentation site in the local server
 
-<CodeGroup>
-  <CodeGroupItem title="YARN" active>
-
 ```bash
+# yarn
 yarn docs:dev
-```
 
-  </CodeGroupItem>
-
-  <CodeGroupItem title="NPM">
-
-```bash
+# npm
 npm run docs:dev
 ```
 
-  </CodeGroupItem>
-</CodeGroup>
-
-  VuePress will start a hot-reloading development server at [http://localhost:8080](http://localhost:8080). When you modify your markdown files, the content in the browser will be auto updated.
+  VuePress will start a hot-reloading development server at `http://localhost:8080`. When you modify your markdown files, the content in the browser will be auto updated.
 
 By now, you should have a basic but functional VuePress documentation site. Next, learn about the basics of [configuration](./configuration.md) in VuePress.

@@ -4,14 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "fmt": "vuepress fmt docs"
   },
   "devDependencies": {
-    "@vue/component-compiler-utils": "^3.3.0",
-    "@vuepress/plugin-docsearch": "^2.0.0-alpha.1",
-    "@vuepress/plugin-register-components": "^1.9.7",
-    "@vuepress/plugin-shiki": "^2.0.0-beta.5",
-    "lru-cache": "^7.8.1",
     "vuepress": "^2.0.0-beta.41"
   }
 }
