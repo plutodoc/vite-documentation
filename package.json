@@ -1,13 +1,13 @@
 {
-  "name": "vuepress-documentation",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "fmt": "vuepress fmt docs"
-  },
-  "devDependencies": {
-    "vuepress": "^2.0.0-beta.41"
-  }
+    "name": "vuepress-documentation",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs",
+        "fmt": "dprint fmt --config ./config/dprint.json"
+    },
+    "devDependencies": {
+        "vuepress": "^2.0.0-beta.41"
+    }
 }
