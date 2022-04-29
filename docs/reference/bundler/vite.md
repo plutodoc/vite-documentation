@@ -1,7 +1,5 @@
 # Vite
 
-<NpmBadge package="@vuepress/bundler-vite" />
-
 Vite bundler is provided by [@vuepress/bundler-vite](https://www.npmjs.com/package/@vuepress/bundler-vite) package. It is a dependency of the [vuepress](https://www.npmjs.com/package/vuepress) package, and you can also install it separately.
 
 ```bash

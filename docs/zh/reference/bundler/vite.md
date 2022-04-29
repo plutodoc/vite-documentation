@@ -1,7 +1,5 @@
 # Vite
 
-<NpmBadge package="@vuepress/bundler-vite" />
-
 Vite 打包工具是由 [@vuepress/bundler-vite](https://www.npmjs.com/package/@vuepress/bundler-vite) 包提供的。它是 [vuepress](https://www.npmjs.com/package/vuepress) 包的依赖之一，当然你也可以单独安装它：
 
 ```bash

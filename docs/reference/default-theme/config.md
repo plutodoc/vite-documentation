@@ -1,7 +1,5 @@
 # Config
 
-<NpmBadge package="@vuepress/theme-default" />
-
 ```js
 const { defaultTheme } = require('@vuepress/theme-default')
 

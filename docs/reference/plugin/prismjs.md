@@ -1,7 +1,5 @@
 # prismjs
 
-<NpmBadge package="@vuepress/plugin-prismjs" />
-
 This plugin will enable syntax highlighting for markdown code fence with [Prism.js](https://prismjs.com/).
 
 ## Usage

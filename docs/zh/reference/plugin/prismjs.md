@@ -1,7 +1,5 @@
 # prismjs
 
-<NpmBadge package="@vuepress/plugin-prismjs" />
-
 该插件使用 [Prism.js](https://prismjs.com/) 来为 Markdown 代码块启用代码高亮。
 
 ## 使用方法

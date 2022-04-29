@@ -1,7 +1,5 @@
 # pwa-popup
 
-<NpmBadge package="@vuepress/plugin-pwa-popup" />
-
 提供一个弹窗组件，允许用户手动刷新 PWA Service Worker 。
 
 该插件必须和 [pwa 插件](./pwa.md) 一起使用，并且 `skipWaiting` 配置项不能设置为 `true` 。

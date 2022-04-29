@@ -1,7 +1,5 @@
 # shiki
 
-<NpmBadge package="@vuepress/plugin-shiki" />
-
 该插件使用 [Shiki](https://shiki.matsu.io/) 来为 Markdown 代码块启用代码高亮。
 
 ::: tip

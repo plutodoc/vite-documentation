@@ -1,7 +1,5 @@
 # search
 
-<NpmBadge package="@vuepress/plugin-search" />
-
 为你的文档网站提供本地搜索能力。
 
 ::: tip

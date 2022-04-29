@@ -1,7 +1,5 @@
 # Webpack
 
-<NpmBadge package="@vuepress/bundler-webpack" />
-
 Webpack bundler is provided by [@vuepress/bundler-webpack](https://www.npmjs.com/package/@vuepress/bundler-webpack) package. It is a dependency of the [vuepress-webpack](https://www.npmjs.com/package/vuepress-webpack) package, and you can also install it separately.
 
 ```bash

@@ -1,7 +1,5 @@
 # medium-zoom
 
-<NpmBadge package="@vuepress/plugin-medium-zoom" />
-
 Integrate [medium-zoom](https://github.com/francoischalifour/medium-zoom#readme) into VuePress, which can provide the ability to zoom images.
 
 This plugin has been integrated into the default theme.

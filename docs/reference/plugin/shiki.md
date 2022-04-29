@@ -1,7 +1,5 @@
 # shiki
 
-<NpmBadge package="@vuepress/plugin-shiki" />
-
 This plugin will enable syntax highlighting for markdown code fence with [Shiki](https://shiki.matsu.io/).
 
 ::: tip

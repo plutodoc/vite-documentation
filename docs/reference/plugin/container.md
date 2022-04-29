@@ -1,7 +1,5 @@
 # container
 
-<NpmBadge package="@vuepress/plugin-container" />
-
 Register markdown custom containers in your VuePress site.
 
 This plugin simplifies the use of [markdown-it-container](https://github.com/markdown-it/markdown-it-container), but also retains its original capabilities.

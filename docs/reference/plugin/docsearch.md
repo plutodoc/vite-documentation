@@ -1,7 +1,5 @@
 # docsearch
 
-<NpmBadge package="@vuepress/plugin-docsearch" />
-
 Integrate [Algolia DocSearch](https://docsearch.algolia.com/) into VuePress, which can provide search to your documentation site.
 
 ::: tip

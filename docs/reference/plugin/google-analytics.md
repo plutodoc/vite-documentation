@@ -1,7 +1,5 @@
 # google-analytics
 
-<NpmBadge package="@vuepress/plugin-google-analytics" />
-
 Integrate [Google Analytics](https://analytics.google.com/) into VuePress.
 
 This plugin will import [gtag.js](https://developers.google.com/analytics/devguides/collection/gtagjs) for [Google Analytics 4](https://support.google.com/analytics/answer/10089681).

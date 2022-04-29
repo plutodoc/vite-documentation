@@ -1,7 +1,5 @@
 # theme-data
 
-<NpmBadge package="@vuepress/plugin-theme-data" />
-
 Provide client data for your theme, with VuePress [i18n](../../guide/i18n.md) support.
 
 This plugin is mainly used to develop themes, and has been integrated into the default theme. You won't need to use it directly in most cases.

@@ -1,7 +1,5 @@
 # Styles
 
-<NpmBadge package="@vuepress/theme-default" />
-
 Default theme uses [SASS](https://sass-lang.com/) as the CSS pre-processor.
 
 Users can custom style variables via [palette file](#palette-file), and add extra styles via [style file](#style-file).

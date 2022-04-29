@@ -1,7 +1,5 @@
 # Webpack
 
-<NpmBadge package="@vuepress/bundler-webpack" />
-
 Webpack 打包工具是由 [@vuepress/bundler-webpack](https://www.npmjs.com/package/@vuepress/bundler-webpack) 包提供的。它是 [vuepress-webpack](https://www.npmjs.com/package/vuepress-webpack) 包的依赖之一，当然你也可以单独安装它：
 
 ```bash

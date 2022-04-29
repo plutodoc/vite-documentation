@@ -1,7 +1,5 @@
 # external-link-icon
 
-<NpmBadge package="@vuepress/plugin-external-link-icon" />
-
 This plugin will add a icon to the external link in your markdown content, i.e. <ExternalLinkIcon />
 
 This plugin has been integrated into the default theme.

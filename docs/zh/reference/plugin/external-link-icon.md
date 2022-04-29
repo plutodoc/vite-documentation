@@ -1,7 +1,5 @@
 # external-link-icon
 
-<NpmBadge package="@vuepress/plugin-external-link-icon" />
-
 该插件会为你 Markdown 内容中的外部链接添加一个图标，即 <ExternalLinkIcon />
 
 该插件已经集成到默认主题中。

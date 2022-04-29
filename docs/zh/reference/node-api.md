@@ -1,7 +1,5 @@
 # Node API
 
-<NpmBadge package="@vuepress/core" />
-
 Node API 是由 [@vuepress/core](https://www.npmjs.com/package/@vuepress/core) 包提供的。它是 [vuepress](https://www.npmjs.com/package/vuepress) 包的依赖之一，当然你也可以单独安装它：
 
 ```bash

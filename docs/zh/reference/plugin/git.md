@@ -1,7 +1,5 @@
 # git
 
-<NpmBadge package="@vuepress/plugin-git" />
-
 该插件会收集你的页面的 Git 信息，包括创建和更新时间、贡献者等。
 
 默认主题的 [lastUpdated](../default-theme/config.md#lastupdated) 和 [contributors](../default-theme/config.md#contributors) 就是由该插件支持的。

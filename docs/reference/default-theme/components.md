@@ -1,7 +1,5 @@
 # Built-in Components
 
-<NpmBadge package="@vuepress/theme-default" />
-
 ## Badge <Badge text="badge" />
 
 - Props:

@@ -1,7 +1,5 @@
 # register-components
 
-<NpmBadge package="@vuepress/plugin-register-components" />
-
 根据组件文件或目录自动注册 Vue 组件。
 
 ## 使用方法

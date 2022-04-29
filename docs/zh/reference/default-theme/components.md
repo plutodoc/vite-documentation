@@ -1,7 +1,5 @@
 # 内置组件
 
-<NpmBadge package="@vuepress/theme-default" />
-
 ## Badge <Badge text="badge" />
 
 - Props:

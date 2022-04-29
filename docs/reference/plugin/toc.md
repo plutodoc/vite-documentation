@@ -1,7 +1,5 @@
 # toc
 
-<NpmBadge package="@vuepress/plugin-toc" />
-
 This plugin will provide a table-of-contents (TOC) component.
 
 ## Usage

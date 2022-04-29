@@ -1,7 +1,5 @@
 # pwa-popup
 
-<NpmBadge package="@vuepress/plugin-pwa-popup" />
-
 Provide a popup component for users to activate the new PWA service worker manually.
 
 This plugin must be used together with [pwa plugin](./pwa.md), and the `skipWaiting` option must not be set to `true`.

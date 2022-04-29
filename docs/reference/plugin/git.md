@@ -1,7 +1,5 @@
 # git
 
-<NpmBadge package="@vuepress/plugin-git" />
-
 This plugin will collect git information of your pages, including the created and updated time, the contributors, etc.
 
 The [lastUpdated](../default-theme/config.md#lastupdated) and [contributors](../default-theme/config.md#contributors) of default theme is powered by this plugin.

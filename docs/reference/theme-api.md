@@ -1,7 +1,5 @@
 # Theme API
 
-<NpmBadge package="@vuepress/core" />
-
 VuePress theme also works as a plugin, so Theme API can accept all the options of [Plugin API](./plugin-api.md) with following differences.
 
 ## Basic Options

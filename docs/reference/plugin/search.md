@@ -1,7 +1,5 @@
 # search
 
-<NpmBadge package="@vuepress/plugin-search" />
-
 Provide local search to your documentation site.
 
 ::: tip
